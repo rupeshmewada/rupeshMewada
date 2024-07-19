@@ -1,5 +1,5 @@
 ### Hi there 👋
-  ##  😄 I am Rupesh mewada 😄
+  ##   I am Rupesh mewada 
 -  I’m currently working on EverPeak It solution
 -  As a drupal developer
 
