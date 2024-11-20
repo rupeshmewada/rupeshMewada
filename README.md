@@ -1,7 +1,7 @@
 ### Hi there 👋
   ##   I am Rupesh mewada 
 -  I’m currently working on EverPeak It solution
--  As a drupal developer
+-  As a Drupal developer
 
  ## Technical skills
 1. HTML
@@ -10,3 +10,4 @@
 4. js
 5. Drupal
 6. PHP
+7. React
