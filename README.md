@@ -8,6 +8,8 @@
 2. css
 3. Bootstrap
 4. js
-5. Drupal
-6. PHP
-7. React
+5. Tailwind
+6. Bootstrap
+7. Drupal
+8. PHP
+9. React
