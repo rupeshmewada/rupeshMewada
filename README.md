@@ -1,6 +1,6 @@
 ### Hi 👋
   ##  I am Rupesh Mewada 
--  I am a Drupal developer
+-  I am a Drupal developer and React developer
 -  I have 1.7 years of experience as a Drupal Developer at EverPeak IT Solutions
   
  ## Technical skills
