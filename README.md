@@ -1,8 +1,8 @@
-### Hi there 👋
-  ##   I am Rupesh mewada 
--  I’m currently working on EverPeak It solution
--  As a Drupal developer
-
+### Hi 👋
+  ##  I am Rupesh Mewada 
+-  I am a Drupal developer
+-  I have 1.7 years of experience as a Drupal Developer at EverPeak IT Solutions
+  
  ## Technical skills
 1. HTML
 2. css
