@@ -1,6 +1,6 @@
 ### Hi 👋
   ##  I am Rupesh Mewada 
--  I am a React and Drupal developer
+-  I am a Mearn stack and Drupal developer
 -  I have 1.7 years of experience as a Drupal Developer at EverPeak IT Solutions
  ## Technical skills
   Frontend Development:
@@ -12,5 +12,8 @@
 6. React
 
 # Backend & CMS:
-8. Drupal
-9. PHP
+8.NodeJs
+9. ExpresssJs
+10. MongoDB
+11. Drupal
+12. PHP
